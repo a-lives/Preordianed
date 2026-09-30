@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Preordained</string>
+    <string name="navigation_drawer_open">打开导航抽屉</string>
+    <string name="navigation_drawer_close">关闭导航抽屉</string>
+    <string name="nav_header_title">天命已定</string>
+    <string name="nav_header_desc">导航栏头部</string>
+
+    <string name="menu_home">骰子</string>
+    <string name="menu_coin">硬币</string>
+
+    <string name="coin_pick_title">硬币数量</string>
+    <string name="coin_count_tap_hint">点数字可直接输入</string>
+    <string name="coin_decrease">减少数量</string>
+    <string name="coin_increase">增加数量</string>
+    <string name="coin_flip">抛硬币</string>
+    <string name="coin_result_title">结果</string>
+    <string name="coin_result_empty">点击「抛硬币」开始</string>
+    <string name="coin_heads">正面</string>
+    <string name="coin_tails">反面</string>
+    <string name="coin_error_invalid_count">数量必须是 1–100 的整数</string>
+
+    <string name="dice_free_box_title">自由骰盒</string>
+    <string name="dice_preset_title">预设骰盒</string>
+    <string name="dice_box_contents_empty">（空）</string>
+    <string name="dice_box_entry">d%1$d × %2$d</string>
+    <string name="dice_preset_separator">、</string>
+    <string name="dice_preset_empty">还没有预设骰盒，进入自由骰盒调好后保存即可</string>
+    <string name="dice_preset_delete_title">删除预设</string>
+    <string name="dice_preset_delete_message">确定要删除「%1$s」吗？</string>
+    <string name="dice_preset_delete">删除</string>
+
+    <string name="dice_pick_title">选择骰子</string>
+    <string name="dice_custom">自定义</string>
+    <string name="dice_custom_sides_hint">面数（≥2）</string>
+    <string name="dice_quantity">数量</string>
+    <string name="dice_decrease">减少数量</string>
+    <string name="dice_increase">增加数量</string>
+    <string name="dice_add">加入骰盒</string>
+    <string name="dice_box_empty">骰盒还是空的，先选一颗骰子放进来吧</string>
+    <string name="dice_clear">清空</string>
+    <string name="dice_save_box">保存</string>
+    <string name="dice_remove">移除</string>
+
+    <string name="dice_preset_name_hint">骰盒名称</string>
+    <string name="dice_preset_save_title">保存为预设骰盒</string>
+    <string name="dice_preset_name_required">名称不能为空</string>
+    <string name="dice_preset_saved">已保存「%1$s」</string>
+    <string name="dice_new_preset_name">骰盒 %1$d</string>
+
+    <string name="dice_roll">掷骰子</string>
+    <string name="dice_result_title">结果</string>
+    <string name="dice_result_empty">点击「掷骰子」开始</string>
+    <string name="dice_result_total">总计</string>
+
+    <string name="dice_error_invalid_sides">面数必须是 ≥2 的整数</string>
+    <string name="dice_error_box_empty">骰盒是空的，请先添加骰子</string>
+</resources>
